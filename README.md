@@ -1,2 +1,2 @@
 # Project
-this repository contains a simple HTMLpage
+This repository contains a simple HTML page
